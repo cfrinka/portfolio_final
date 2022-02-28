@@ -40,7 +40,7 @@ header {
 /* me */
 
 .me {
-    background-color: var(--color-primary);
+    background: linear-gradient(rgba(77,181,255,1) 35%, rgba(255,255,255,0) 100%);
     overflow: hidden;
     width: 22rem;
     height: 30rem;
